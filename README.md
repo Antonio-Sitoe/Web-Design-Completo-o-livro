@@ -1,2 +1,2 @@
 # Web Design Completo o livro
- Neste guia, ou livro, mostro como comecar a carreira do zero como um webDesigner, utilizando ferramentaas uteis e  conceitos que vigoram na arte desde os primordios da humanidade, espero que tenha uma boa leitura, se quiser  contribuir  vai a parte onde tem informacoes para a contribuicao
+ Neste guia, ou livro, mostro como começar sua carreira de webDesigner do zero, utilizando ferramentas e conceitos úteis que prevalecem na arte desde os primórdios da humanidade. Espero que você tenha uma boa leitura, se quiser contribuir vá para a parte onde tem informações para a contribuição!
